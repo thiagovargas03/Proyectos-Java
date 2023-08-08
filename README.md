@@ -6,7 +6,7 @@ En esta carpeta se encuentran mis proyectos realizados en Java.
 
 **Thiago Vargas**
 
-[LinkedIn](www.linkedin.com/in/thiagovargas03)
+* [LinkedIn](www.linkedin.com/in/thiagovargas03/)
 
 ##  CONTRATACION 💼
 
